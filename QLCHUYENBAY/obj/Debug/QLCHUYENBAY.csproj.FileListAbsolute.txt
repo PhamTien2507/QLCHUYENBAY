@@ -1,0 +1,11 @@
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\bin\Debug\QLCHUYENBAY.exe.config
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\bin\Debug\QLCHUYENBAY.exe
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\bin\Debug\QLCHUYENBAY.pdb
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.csproj.AssemblyReference.cache
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.FormDangNhap.resources
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.Properties.Resources.resources
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.csproj.GenerateResource.cache
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.csproj.CoreCompileInputs.cache
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.exe
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.pdb
+E:\Nam_2\WinForm\QLCHUYENBAY\QLCHUYENBAY\obj\Debug\QLCHUYENBAY.FormChuongTrinh.resources
